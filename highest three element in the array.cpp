@@ -22,6 +22,8 @@ int main(){
             c = b;
             b = arr[i];
         }
+
+            
         else if (arr[i]>c){
             c= arr[i];
         }
